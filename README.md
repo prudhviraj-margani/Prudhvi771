@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prudhvi771
+- 👋 Hi, I’m @PrudhviRaj
 - 👀 I’m interested in Programming and Problem Solving
 - 🌱 I’m currently learning new Technologies
 - 💞️ I’m looking to collaborate on new technologies
